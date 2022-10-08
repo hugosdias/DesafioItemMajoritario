@@ -1,0 +1,15 @@
+C:\DIO\C#\Desafios\bin\Debug\net6.0\Desafios.exe
+C:\DIO\C#\Desafios\bin\Debug\net6.0\Desafios.deps.json
+C:\DIO\C#\Desafios\bin\Debug\net6.0\Desafios.runtimeconfig.json
+C:\DIO\C#\Desafios\bin\Debug\net6.0\Desafios.dll
+C:\DIO\C#\Desafios\bin\Debug\net6.0\Desafios.pdb
+C:\DIO\C#\Desafios\obj\Debug\net6.0\Desafios.csproj.AssemblyReference.cache
+C:\DIO\C#\Desafios\obj\Debug\net6.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\C#\Desafios\obj\Debug\net6.0\Desafios.AssemblyInfoInputs.cache
+C:\DIO\C#\Desafios\obj\Debug\net6.0\Desafios.AssemblyInfo.cs
+C:\DIO\C#\Desafios\obj\Debug\net6.0\Desafios.csproj.CoreCompileInputs.cache
+C:\DIO\C#\Desafios\obj\Debug\net6.0\Desafios.dll
+C:\DIO\C#\Desafios\obj\Debug\net6.0\refint\Desafios.dll
+C:\DIO\C#\Desafios\obj\Debug\net6.0\Desafios.pdb
+C:\DIO\C#\Desafios\obj\Debug\net6.0\Desafios.genruntimeconfig.cache
+C:\DIO\C#\Desafios\obj\Debug\net6.0\ref\Desafios.dll
